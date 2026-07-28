@@ -1,9 +1,29 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        final_str = ""
-        for i in s.lower():
-            if ( 'a' <= i <= 'z') or ('0' <= i <= '9'):
-                final_str += i
-        return final_str == final_str[::-1]
-
+        left = 0
+        right = len(s) - 1
         
+        while (left <= right):
+            if not (('a' <= s[left].lower() <= 'z') or ('0' <= s[left] <= '9')) :
+                if left + 1 <= right:
+                    left += 1
+                    continue
+                else:
+                    return True
+            
+            
+            if not (('a' <= s[right].lower() <= 'z') or ('0' <= s[right] <= '9')) :
+                if left  <= right - 1 :
+                    right -= 1
+                    continue
+                else:
+                    return True
+
+            if s[left].lower() != s[right].lower():
+                return False
+
+            left += 1
+            right -= 1
+
+        return True
+
