@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushhnaikk/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/piyushhnaikk/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/piyushhnaikk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/piyushhnaikk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/piyushhnaikk/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/piyushhnaikk/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/piyushhnaikk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/piyushhnaikk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushhnaikk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
