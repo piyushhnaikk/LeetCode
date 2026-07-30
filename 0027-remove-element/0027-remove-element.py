@@ -4,12 +4,9 @@ class Solution:
         write = 0
         
         while read < len(nums)  :
-            if nums[read] == val:
-                read += 1
-                
-            else:
+            if nums[read] != val:
                 nums[write] = nums[read]
-                read += 1
                 write += 1
+            read += 1
         
         return write
