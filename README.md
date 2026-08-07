@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/piyushhnaikk/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/piyushhnaikk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushhnaikk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/piyushhnaikk/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyushhnaikk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/piyushhnaikk/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/piyushhnaikk/LeetCode/tree/master/0283-move-zeroes) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushhnaikk/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/piyushhnaikk/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/piyushhnaikk/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/piyushhnaikk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/piyushhnaikk/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/piyushhnaikk/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/piyushhnaikk/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyushhnaikk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/piyushhnaikk/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/piyushhnaikk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/piyushhnaikk/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/piyushhnaikk/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushhnaikk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -92,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/piyushhnaikk/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/piyushhnaikk/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/piyushhnaikk/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/piyushhnaikk/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
