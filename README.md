@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/piyushhnaikk/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/piyushhnaikk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushhnaikk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyushhnaikk/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/piyushhnaikk/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/piyushhnaikk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/piyushhnaikk/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/piyushhnaikk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyushhnaikk/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/piyushhnaikk/LeetCode/tree/master/0392-is-subsequence) |
 ## Prefix Sum
 |  |
@@ -108,5 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/piyushhnaikk/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/piyushhnaikk/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
